@@ -1,1 +1,1 @@
-web: deno run --allow-net=:${PORT} bot.ts --port=${PORT}
+web: deno run --allow-net=:${PORT} server.ts --port=${PORT}
