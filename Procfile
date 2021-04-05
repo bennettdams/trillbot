@@ -1,0 +1,1 @@
+web: deno run bot.ts
