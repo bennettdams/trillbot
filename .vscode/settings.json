@@ -1,0 +1,6 @@
+{
+  "deno.enable": true,
+  "deno.path": "/home/bennett/.deno/bin/deno",
+  "deno.lint": true,
+  "deno.unstable": true
+}
